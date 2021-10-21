@@ -7,7 +7,6 @@ class Product(models.Model):
     image=models.FileField(upload_to='images',blank=True)
 
     #verf git
-
-
+    #hi yassine
 
 
